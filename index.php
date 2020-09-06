@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
-<?php echo '<p>OLA MUNDO do PHP!</p>'; ?>
+<?php echo '<p>OLA MUNDO do PHP 2!</p>'; ?>
  </body>
 </html>
